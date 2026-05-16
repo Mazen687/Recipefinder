@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+*.iml
+
+# Virtual Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
